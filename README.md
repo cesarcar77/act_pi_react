@@ -1,4 +1,5 @@
 # Nombre del Proyecto
+Proyecto Integrador: TechParts E-commerce
 
 ## Descripción
 Este proyecto es una aplicación web de comercio electrónico (e-commerce) simulada, diseñada para la venta de componentes de hardware para computadoras (CPU, GPU, RAM, etc.). Su propósito principal es demostrar la colaboración efectiva en equipo utilizando el control de versiones (Git/GitHub) y la implementación de un sistema de enrutamiento dinámico en Next.js.
@@ -26,7 +27,7 @@ Diseño Básico: Estilos implementados con Tailwind CSS para una interfaz limpia
 **Nota**: Todos los avances documentados en esta sección deben coincidir con los commits realizados en el repositorio, incluyendo el autor correspondiente de cada commit. Cada tarea completada, en progreso o pendiente debe estar respaldada por un commit asociado en el repositorio, con mensajes descriptivos que reflejen la tarea realizada y el nombre del autor.
 
 ### Clase 1
-- **Fecha**: [DD/MM/YYYY]
+- **Fecha**: [28/08/2025]
 - **Objetivos**:
   1.Configurar el repositorio base y la estructura inicial del proyecto.
   2.Definir los tipos de datos de los productos y la API simulada.
@@ -48,16 +49,16 @@ Avances:
   - Se definió la estructura de carpetas src/app/products/[id]/.
 
 ### Clase 2
-- **Fecha**: [DD/MM/YYYY]
+- **Fecha**: [01/09/2025]
 - **Objetivos**:
-  - [Objetivo 1]
-  - [Objetivo 2]
+- Implementar la página de listado de productos (/products).
+-Implementar la página de detalles de producto (/products/[id]).
+-Resolver errores de enrutamiento y carga de módulos (Module not found). 
 - **Avances**:
-  - ✅ [Tarea completada 1] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
-  - ✅ [Tarea completada 2] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
+  - Implementación de la página de listado de productos. - Responsable: [Nombre Colaborador 1] - Commit: feat: added products listing page
+✅ Implementación de la página de detalles de producto. - Responsable: [Nombre Colaborador 2] - Commit: feat: added dynamic product details page
 - **En progreso**:
-  - 🔄 [Tarea en progreso] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
-- **Pendiente**:
+  - 🔄 🔄Revisar por qué la página de detalles sigue mostrando 404/errores de módulo. - Responsable: [Tu Nombre (Líder)]
   - ⏳ [Tarea pendiente] - Responsable: [Nombre]
 - **Notas**:
   - [Descripción de problemas, soluciones o decisiones tomadas]
